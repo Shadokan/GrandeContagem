@@ -1,0 +1,6 @@
+name: GrandeContagem
+version: 1.0
+main: com.grandemc.GrandeContagem
+description: nulo
+commands:
+  blocos:

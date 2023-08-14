@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GrandeContagem:jar">
+    <output-path>$USER_HOME$/Desktop/Codando/plugins</output-path>
+    <root id="archive" name="GrandeContagem.jar">
+      <element id="module-output" name="GrandeContagem" />
+    </root>
+  </artifact>
+</component>
